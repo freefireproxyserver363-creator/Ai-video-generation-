@@ -1,0 +1,6 @@
+{
+  "name": "CineStyle AI Video",
+  "description": "Multi-style AI video studio generating real cinematic videos, anime, horror, 3D, and long-form story movies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
